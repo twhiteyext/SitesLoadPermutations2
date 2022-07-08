@@ -5,9 +5,9 @@ import { reactWrapper } from "../wrapper";
 
 export const config: FeatureConfig = {
   name: "loc-hydrated",
-  streamId: "sites-load-50-500-1000000-2-new",
+  streamId: "sites-load-50-500-1000000-2",
   stream: {
-    "$id": "sites-load-50-500-1000000-2-new",
+    "$id": "sites-load-50-500-1000000-2",
     "source": "knowledgeGraph",
     "destination": "pages",
     "fields": [
